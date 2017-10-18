@@ -1,0 +1,29 @@
+.line{
+	width:254px;
+	height:100px;
+	margin:auto;
+}
+.cell{
+	width:100px;
+	height:100px;
+	border: 1px black solid;
+	float:left;
+}
+#cell1{
+	background-color:red;
+}
+#cell3{
+	background-color:brown;
+}
+#cell2,#cell4{
+	margin-left: 50px;
+}
+#cell2{
+	background-color:yellow;
+}
+#cell4{
+	background-color:black;
+}
+#line2{
+	margin-top:50px;
+}
